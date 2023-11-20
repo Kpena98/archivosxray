@@ -4,8 +4,8 @@
             "id": "10001",
             "key": "PX"
         },
-        "summary": "PRUEBA DE PERFORMANCE",
-        "description": "ESTO ES UNA PRUEBA DE PERFORMANCE, TABLE",
+        "summary": "SOLICITUD DE MERGE A APROBAR",
+        "description": "Este es el merge request a revisar: URLGITLAB",
         "issuetype": {
             "name": "Test Execution"
         }
