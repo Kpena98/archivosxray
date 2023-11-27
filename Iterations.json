@@ -1,0 +1,28 @@
+{
+    "info": {
+        "summary": "Execution of automated tests for release",
+        "description": "This execution was automatically created when importing execution results from an external source",
+        "project": "PX",
+        "version": "1.0",
+        "revision": "123",
+        "startDate": "2021-07-14T11:47:35+01:00",
+        "finishDate": "2021-07-14T11:53:00+01:00",
+        "testEnvironments": [
+            "chrome"
+        ]
+    },
+    "tests": [
+        {
+            "testKey": "PX-79",
+            "start": "2021-07-14T11:47:35+01:00",
+            "finish": "2021-07-14T11:53:00+01:00",
+            "comment": "invalid user",
+            "status": "FAILED",
+            "iterations" : [
+              {
+              "name": "Iteration1"
+              }
+            ]
+        },
+    ]
+}
