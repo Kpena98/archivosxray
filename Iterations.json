@@ -13,16 +13,18 @@
     },
     "tests": [
         {
-            "testKey": "PX-79",
+            "testKey": "PX-78",
             "start": "2021-07-14T11:47:35+01:00",
             "finish": "2021-07-14T11:53:00+01:00",
             "comment": "invalid user",
             "status": "FAILED",
-            "iterations" : [
+            "evidences" : [
               {
-              "name": "Iteration1"
-              }
-            ]
+               "data": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkG...."
+//               "filename": "screenshot.jpg",
+//               "contentType": "image/jpeg"
+                        }
+                    ]
         }
     ]
 }
