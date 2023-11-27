@@ -17,7 +17,7 @@
             "status": "FAILED",
             "evidences" : [
               {
-               "data": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkG...."
+               "data": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkG....",
                "filename": "screenshot.jpg",
                "contentType": "image/jpeg"
                         }
